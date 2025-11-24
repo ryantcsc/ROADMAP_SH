@@ -27,6 +27,7 @@ Otherwise, open `index.html` locally in your browser to view the CV.
 ## Notes
 
 - This CV page and content is created as a learning project on [roadmap.sh](https://roadmap.sh).
+- https://roadmap.sh/projects/single-page-cv
 - The current content includes dummy placeholder text in the Education and Experience sections, which is intended for learning and should be replaced with actual data.
 - The contact information in the header is also placeholder and should be updated.
 - Favicons and icons are included in the `favicon_io` folder.
